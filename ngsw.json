@@ -1,0 +1,104 @@
+{
+  "configVersion": 1,
+  "timestamp": 1594189267388,
+  "index": "https://rohanxx.github.io/Advice_Generator/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://rohanxx.github.io/Advice_Generator/favicon.ico",
+        "https://rohanxx.github.io/Advice_Generator/index.html",
+        "https://rohanxx.github.io/Advice_Generator/main-es2015.8f859cbdeb76c1522b3c.js",
+        "https://rohanxx.github.io/Advice_Generator/main-es5.8f859cbdeb76c1522b3c.js",
+        "https://rohanxx.github.io/Advice_Generator/manifest.webmanifest",
+        "https://rohanxx.github.io/Advice_Generator/polyfills-es2015.c076d2dbf3826e19386d.js",
+        "https://rohanxx.github.io/Advice_Generator/polyfills-es5.fdcf8da17a35ac7eb9bf.js",
+        "https://rohanxx.github.io/Advice_Generator/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "https://rohanxx.github.io/Advice_Generator/runtime-es5.0dae8cbc97194c7caed4.js",
+        "https://rohanxx.github.io/Advice_Generator/styles.3bb268387b8fd643deef.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-128x128.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-144x144.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-152x152.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-192x192.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-384x384.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-512x512.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-72x72.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-96x96.png",
+        "https://rohanxx.github.io/Advice_Generator/assets/img/architecture.jpg",
+        "https://rohanxx.github.io/Advice_Generator/assets/img/kuala-lumpur.jpg",
+        "https://rohanxx.github.io/Advice_Generator/assets/img/man-1.jpg",
+        "https://rohanxx.github.io/Advice_Generator/assets/img/man-2.jpg",
+        "https://rohanxx.github.io/Advice_Generator/assets/img/panorama-3094696_1920.jpg",
+        "https://rohanxx.github.io/Advice_Generator/assets/img/swarup.jpg",
+        "https://rohanxx.github.io/Advice_Generator/assets/img/woman-2.jpg",
+        "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://rohanxx.github.io/Advice_Generator/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://rohanxx.github.io/Advice_Generator/assets/img/architecture.jpg": "fdc0ebd5616fb839b17d7217babacd984af34090",
+    "https://rohanxx.github.io/Advice_Generator/assets/img/kuala-lumpur.jpg": "f5580cdfbe2dd8bac9bfefaec0c526d727d6f42c",
+    "https://rohanxx.github.io/Advice_Generator/assets/img/man-1.jpg": "095558319a17e087812a37980789d93a9c89a35e",
+    "https://rohanxx.github.io/Advice_Generator/assets/img/man-2.jpg": "5e1fda79ba9a0aa7411637befd086265ee6f8eae",
+    "https://rohanxx.github.io/Advice_Generator/assets/img/panorama-3094696_1920.jpg": "9a3bb85c0425533cc24d2c3164c77f7c1d68c6d7",
+    "https://rohanxx.github.io/Advice_Generator/assets/img/swarup.jpg": "c7b1ef01cd64a7f43dc9257397999587c91ea3fc",
+    "https://rohanxx.github.io/Advice_Generator/assets/img/woman-2.jpg": "4c949656bd9268ced97a61a10cb9d2518e996ebf",
+    "https://rohanxx.github.io/Advice_Generator/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "https://rohanxx.github.io/Advice_Generator/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "https://rohanxx.github.io/Advice_Generator/index.html": "ca11595711b60aa940304eab2ca0f856926ae93a",
+    "https://rohanxx.github.io/Advice_Generator/main-es2015.8f859cbdeb76c1522b3c.js": "b52dfe646922da2d596cabd85a1399fbbb7424b6",
+    "https://rohanxx.github.io/Advice_Generator/main-es5.8f859cbdeb76c1522b3c.js": "911b1c00a597c4af2e8dac615496611a13dedf6e",
+    "https://rohanxx.github.io/Advice_Generator/manifest.webmanifest": "f2f7df868df3eabf83735f3807fd293eb394146e",
+    "https://rohanxx.github.io/Advice_Generator/polyfills-es2015.c076d2dbf3826e19386d.js": "4fb60e77a1bc92a642cf945d17e91c779f184485",
+    "https://rohanxx.github.io/Advice_Generator/polyfills-es5.fdcf8da17a35ac7eb9bf.js": "81407c236ae15a3902e6d3d2a666d7042d23f006",
+    "https://rohanxx.github.io/Advice_Generator/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://rohanxx.github.io/Advice_Generator/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://rohanxx.github.io/Advice_Generator/styles.3bb268387b8fd643deef.css": "8d4bc8bd8e09b31e2be165825ef2446cfa78feb6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
