@@ -1,0 +1,56 @@
+.advice-container {
+    height: 220px;
+    width: 500px;
+    background-color: black;
+    border: 10px solid yellow;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.advice-text {
+    text-align: center;
+    font-size: 18px;;
+    color: greenyellow;
+    justify-content: center;
+    margin-top: 55px;
+    padding: 5px;
+}
+
+.advice-error-text {
+    text-align: center;
+    font-size: 18px;;
+    color: red;
+    justify-content: center;
+    margin-top: 55px;
+    padding: 5px;
+}
+.heading {
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    margin: 40px;
+}
+
+button {
+    margin: 20px auto 0px auto;
+    display: block;
+    background-color: #1f1a25;
+    color: #58afd1;
+    border: 2px solid #58afd1;
+    width: 144px;
+    height: 60px;
+    font-size : 18px;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 414px) { 
+    .advice-container {
+        width: 350px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 568px) {
+    .advice-container {
+        width: 300px;
+    }
+}

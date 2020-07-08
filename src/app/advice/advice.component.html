@@ -1,0 +1,8 @@
+<h2 class="heading">Advice Generator</h2>
+
+<div class="advice-container">
+  <p *ngIf="advice" class="advice-text">{{advice}}</p>
+  <p *ngIf="error" class="advice-error-text">Oops!! Can't find a advice </p>
+</div>
+
+<button (click)="GenerateNewAdvice()">New Advice</button>
